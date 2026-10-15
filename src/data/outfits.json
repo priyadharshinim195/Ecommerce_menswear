@@ -1,0 +1,12 @@
+[
+  {"id":"tshirt","name":"T-Shirts","category":"T-Shirts","shape":"tee","defaultColor":"black",
+   "colors":[{"id":"black","name":"Black","hex":"#141414"},{"id":"white","name":"White","hex":"#eeeeea"},{"id":"grey","name":"Grey","hex":"#8c8c8c"},{"id":"navy","name":"Navy","hex":"#1f2d4d"}]},
+  {"id":"casual-shirt","name":"Casual Shirts","category":"Shirts","shape":"shirt","defaultColor":"white",
+   "colors":[{"id":"white","name":"White","hex":"#eeeeea"},{"id":"light-blue","name":"Light Blue","hex":"#9fc1e0"},{"id":"black","name":"Black","hex":"#141414"},{"id":"beige","name":"Beige","hex":"#d8c4a0"}]},
+  {"id":"formal-shirt","name":"Formal Shirts","category":"Formal Shirts","shape":"formal","defaultColor":"white",
+   "colors":[{"id":"white","name":"White","hex":"#eeeeea"},{"id":"light-blue","name":"Light Blue","hex":"#9fc1e0"},{"id":"navy","name":"Navy","hex":"#1f2d4d"}]},
+  {"id":"hoodie","name":"Hoodies","category":"Hoodies","shape":"hoodie","defaultColor":"black",
+   "colors":[{"id":"black","name":"Black","hex":"#141414"},{"id":"grey","name":"Grey","hex":"#7a7a7a"},{"id":"cream","name":"Cream","hex":"#ece3cc"},{"id":"navy","name":"Navy","hex":"#1f2d4d"}]},
+  {"id":"coat","name":"Coats & Jackets","category":"Coats & Jackets","shape":"coat","defaultColor":"black",
+   "colors":[{"id":"black","name":"Black","hex":"#141414"},{"id":"charcoal","name":"Charcoal","hex":"#3a3c41"},{"id":"camel","name":"Camel","hex":"#b68a52"},{"id":"navy","name":"Navy","hex":"#1f2d4d"}]}
+]
